@@ -39,11 +39,23 @@ source("./R/language.R")
 **hacettepe-com-case-28**
 
 
-[https://images.patolojiatlasi.com/hacettepe-com-case-28/HE.html](https://images.patolojiatlasi.com/hacettepe-com-case-28/HE.html)
+
+
+[https://images.patolojiatlasi.com/hacettepe-com-case-28/HE1.html](https://images.patolojiatlasi.com/hacettepe-com-case-28/HE1.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://images.patolojiatlasi.com/hacettepe-com-case-28/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/hacettepe-com-case-28/HE1.html" style="height:400px;width:100%;" data-external="1"></iframe>
+
+
+
+[https://images.patolojiatlasi.com/hacettepe-com-case-28/HE2.html](https://images.patolojiatlasi.com/hacettepe-com-case-28/HE2.html)
+
+Mikroskopik görüntüleri inceleyin:
+
+<iframe src="https://images.patolojiatlasi.com/hacettepe-com-case-28/HE2.html" style="height:400px;width:100%;" data-external="1"></iframe>
+
+
 
 ```
 
@@ -55,11 +67,21 @@ Mikroskopik görüntüleri inceleyin:
 **hacettepe-com-case-28**
 
 
-[https://images.patolojiatlasi.com/hacettepe-com-case-28/HE.html](https://images.patolojiatlasi.com/hacettepe-com-case-28/HE.html)
+[https://images.patolojiatlasi.com/hacettepe-com-case-28/HE1.html](https://images.patolojiatlasi.com/hacettepe-com-case-28/HE1.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://images.patolojiatlasi.com/hacettepe-com-case-28/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/hacettepe-com-case-28/HE1.html" style="height:400px;width:100%;" data-external="1"></iframe>
+
+
+
+[https://images.patolojiatlasi.com/hacettepe-com-case-28/HE2.html](https://images.patolojiatlasi.com/hacettepe-com-case-28/HE2.html)
+
+See Microscopy with viewer: 
+
+<iframe src="https://images.patolojiatlasi.com/hacettepe-com-case-28/HE2.html" style="height:400px;width:100%;" data-external="1"></iframe>
+
+
 
 ```
 
